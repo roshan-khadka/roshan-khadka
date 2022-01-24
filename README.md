@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roshan-khadka
 - 👀 I’m interested in learning how to code in python to solve problems and automate day to day activities.
-- 🌱 I’m currently learning python and sql for analyzing data.
+- 🌱 I’m currently learning python and sql for analysing data.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 You can reach me via roshankhadka145@gmail.com
 
